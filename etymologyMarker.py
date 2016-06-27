@@ -15,9 +15,7 @@ def stripForDictionary(splitString, formattedList):
         formattedList.append(stripped.lower())
 
 def lookupInDictionary(formattedList, languages, splitString, allWords, greekRoots):
-    """ Looks up the words that are lower-case and stripped of punctuation and affixes (formattedList). 
-    Then it adds HTML tags to the corresponding words from the user's input (splitString).
-    """
+    """ Looks up words and applies html tags based on language origin. """
     for x, word in enumerate(formattedList):
         origin = getOrigin(word, allWords)
         if origin != None:
@@ -29,7 +27,7 @@ def lookupInDictionary(formattedList, languages, splitString, allWords, greekRoo
     return languages
 
 def removeExtraHTML(formattedList, splitString, allWords):
-    """ If two words next to each other are the same colour, 
+    """ If two adjacent words are the same colour, 
     removes the first HTML tag from the second word and the second HTML tag from the first word. 
     This keeps the output from looking like a ransom letter.
     """
@@ -85,7 +83,7 @@ def pieChart(legend, colours):
         function drawChart() {
 
           var data = google.visualization.arrayToDataTable([
-            ['Language', 'Number of Words']""" + legend + """ 
+            ['Language', 'Number of Words'], """ + legend + """ 
           ]);
 
           var options = {
@@ -124,24 +122,24 @@ def main():
     if len(fileName) < 1:
         fileName = 'usertext.txt'
 
-    with open('etymologyDictionary.json', 'r') as dictionaryfile:                                         # Reads in the dictionary and list of Greek roots from .json files.
+    with open('etymologyDictionary.json', 'r') as dictionaryfile:                                # Reads in the dictionary and list of Greek roots from .json files.
         allWords = json.load(dictionaryfile)
 
     with open('greekRootsList.json', 'r') as greekfile:
         greekRoots = json.load(greekfile)
 
-    markedUp = io.open('markedUp.html', encoding='utf-8', mode='w')                                       # Opens an output file and adds a legend.
-    markedUp.write(unicode('<html> <p> Key: </p>'))
+    markedUp = io.open('markedUp.html', encoding='utf-8', mode='w')                              # Opens an output file and adds a legend.
+    markedUp.write(unicode('<html>\n<p> Key: </p>'))
 
-    for language in sorted(languages.keys()):                                                             # Writes legend/key to start of html file
-        markedUp.write(unicode('<p>' + '<span style="background-color: #' 
+    for language in sorted(languages.keys()):                                                    # Writes legend/key to start of html file
+        markedUp.write(unicode('<p><span style="background-color: #' 
                                + languages[language]['colour']      + '">' 
-                               + languages[language]['colour name'] + '</span>'  + ' words are of ' 
-                               + languages[language]['long name']   + ' origin.' + '</p>'))
-    markedUp.write(unicode('<br></br>'))
+                               + languages[language]['colour name'] + '</span> words are of ' 
+                               + languages[language]['long name']   + ' origin. </p>\n'))
+    markedUp.write(unicode('<br>\n'))
 
-    with io.open(fileName, encoding='utf-16', mode='r') as f:                                             # Opens the user's input file, runs the functions on each line of text,
-        usertext = f.readlines()                                                                          # then writes the results to the output file.
+    with io.open(fileName, encoding='utf-16', mode='r') as f:                                    # Opens the user's input file, runs the functions on each line of text,
+        usertext = f.readlines()                                                                 # then writes the results to the output file.
         TotalWordCount = 0
 
         for line in usertext:
@@ -153,18 +151,14 @@ def main():
             lookupInDictionary(formattedList, languages, splitString, allWords, greekRoots)
             removeExtraHTML(formattedList, splitString, allWords)
             joinedString = ' '.join(splitString)
-            joinedString = joinedString.replace('</span> ', ' </span>')                                   # Highlights spaces between words
+            joinedString = joinedString.replace('</span> ', ' </span>')                          # Highlights spaces between words
             markedUp.write(unicode('<p>' + joinedString + '</p>'))
 
-    legend_js  = ''                                                                                       # Creates legend and colour list for JavaScript Pie Chart
+    legend_js  = ''                                                                              # Creates legend and colour list for JavaScript Pie Chart
     colours_js = ''
     for language in languages.iteritems():
-        legend_js += (", \n" + " "*12 + "['" + language[1]['long name'] + "', " + str(language[1]['word count']) + "]")
-    
-        if language != next(reversed(languages)):
-            colours_js += ("\n" + " "*12 + "{color: '#" + language[1]['colour'] + "'}, ")
-        else:
-            colours_js += ("\n" + " "*12 + "{color: '#" + language[1]['colour'] + "'}")
+        legend_js  += ("\n" + " "*12 + "['" + language[1]['long name'] + "', " + str(language[1]['word count']) + "], ")
+        colours_js += ("\n" + " "*12 + "{color: '#" + language[1]['colour'] + "'}, ")
 
     markedUp.write(unicode(pieChart(legend_js, colours_js)))
     markedUp.close()
