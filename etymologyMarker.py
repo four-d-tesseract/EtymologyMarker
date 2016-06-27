@@ -8,6 +8,15 @@ def getOrigin(word, allWords):
     """ Returns the language origin of a word. """
     return allWords.get(word)
 
+def whitespaceNum(number):
+    """ Creates white-space for evenly distributing numbers. """
+    if number < 10:
+        return ' ' * 2
+    elif number < 100:
+        return  ' '
+    else:
+        return ''
+
 def stripForDictionary(splitString, formattedList):
     """ Takes input, strips punctuation, makes lower-case, then appends to formattedList. """
     for word in splitString:
@@ -121,6 +130,8 @@ def main():
     fileName = raw_input("Input text file to analyse (Note: must be in UTF-16 format): ")
     if len(fileName) < 1:
         fileName = 'usertext.txt'
+        
+    stats_marker = raw_input("Do you want the info displayed as a pie chart? (y/n): ").lower()
 
     with open('etymologyDictionary.json', 'r') as dictionaryfile:                                # Reads in the dictionary and list of Greek roots from .json files.
         allWords = json.load(dictionaryfile)
@@ -156,11 +167,17 @@ def main():
 
     legend_js  = ''                                                                              # Creates legend and colour list for JavaScript Pie Chart
     colours_js = ''
-    for language in languages.iteritems():
+    statistics = '<br><p>Percent composition:</p>'
+    for language in sorted(languages.iteritems(), key=lambda (k, v): v['word count'], reverse = True):
         legend_js  += ("\n" + " "*12 + "['" + language[1]['long name'] + "', " + str(language[1]['word count']) + "], ")
-        colours_js += ("\n" + " "*12 + "{color: '#" + language[1]['colour'] + "'}, ")
-
-    markedUp.write(unicode(pieChart(legend_js, colours_js)))
+        colours_js += ("\n" + " "*12 + "{color: '#" + language[1]['colour'] + "'}, ")  
+        percent     = language[1]['word count'] * 100.0 / TotalWordCount
+        statistics += ('\n<pre>' + whitespaceNum(percent) + '{:.2f} percent '.format(percent) + language[1]['long name'] + '</pre>')
+    
+    if stats_marker == 'y':
+        markedUp.write(unicode(pieChart(legend_js, colours_js)))
+    else:
+        markedUp.write(unicode(statistics))
     markedUp.close()
 
 if __name__ == "__main__":
