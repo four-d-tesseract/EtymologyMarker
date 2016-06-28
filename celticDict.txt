@@ -1,0 +1,402 @@
+The number of [[English language|English]] words known to be derived from the [[Common Brittonic|Brittonic language]] is remarkably small. In fact, as far as can be ascertained it is lower than the number of [[List of English words of Gaulish origin|words of Gaulish origin]] found in the English language, which arrived through Norman French. However, this is to be expected, given the socio-historical relationship between [[Old English]] and Brittonic; the influence of the Brittonic language has been more prominent in other areas such as syntax.<ref>Tristram, Hildegaard 2007: "Why Don't the English Speak Welsh" [http://www.hildegard.tristram.de/media/tristram_manchester_30-07-07.pdf <The Paper>], retrieved Mar.1, 2014.</ref> However, it is possible that many British words have been obscured by their close similarity to Germanic words which are perceived to offer a more likely etymology (e.g. "belly": considered to be from OE ''bylg'', but could easily be from AB ''*belgā''), and also that some of them have been misidentified as [[List of French words of Gaulish origin|Gaulish via French]], which are simply unattested until after the Norman invasion.
+
+==Other sources of Celtic words in English==
+This list does not include words of Celtic origin borrowed into English from other languages, namely:
+*Later [[Brythonic languages|Brythonic]]: [[Welsh language|Welsh]] (e.g. "coracle, flannel"), [[Cornish language|Cornish]] (e.g. "wrasse", possibly "gull"), [[Breton language|Breton]] (e.g. "dolmen, menhir"), or others unknown ("gull" ?).
+*[[Gaelic (language)|Gaelic]] (e.g. "keening, bog, bother, hubbub, glen, clan", possibly ''gob'')
+*[[Gaulish language|Gaulish]] (via Norman French or [[Latin]]: "ambassador, bound, car, carpenter, piece," etc. and possibly "beak, bran, flannel, gallon," etc.)
+*Gaulish or similar Indo-European via early Germanic (e.g. "down"<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=down down (n.2)], retrieved Mar. 1, 2014.</ref>), or Gaulish or Gallo-Latin via early Germanic ("bin"<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=bin bin (n.)], retrieved Mar. 1, 2014.</ref>)
+unless there is room for doubt.
+
+==List==
+This list is neither exhaustive nor definitive. Please note that several of the entries are doubtful or have alternative explanations; they are included where a Brittonic explanation is useful and plausible.
+
+; [[wikt:basket|basket]] : apparently from Brittonic ''*basc(i)-etto-n'', meaning "little wicker thing".<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=basket basket (n.)], retrieved Mar. 1, 2014.</ref>
+; [[wikt:beak|beak]] : possibly from Brittonic ''*becco-s'', meaning "beak"; equally possibly from Gaulish via Latin (''beccus'') via French (''bec'').<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=beak beak (n.)], retrieved Mar. 1, 2014.</ref>
+; [[wikt:brock|brock]] : from Brittonic ''*brocco-s'', meaning "badger".
+; [[wikt:coomb|coomb]] : from Brittonic ''*cumbos-/ā-'', meaning "valley".
+; [[wikt:dad|dad, daddy]] : from Brittonic ''*tatV-'', meaning "dad". Equally possibly an independent innovation, although well-attested in Celtic and other Indo-European languages,<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=dad dad (n.)], retrieved Mar. 1, 2014.</ref> including German<ref>Grimm's ''Wörterbuch'' - [http://www.verstecken.uni-trier.de/cgi-bin/WBNetz/call_wbgui_py_from_form?sigle=DWB&mode=Volltextsuche&hitlist=4352831&firsthit=0&textpattern=vernt&lemmapattern=&patternlist=T:vernt&lemid=GD01439 entry ''deite'']</ref>
+; [[wikt:dam|dam]] : possibly from Brittonic ''*damā-'', meaning "female sheep or deer"; alternatively from French ''dame'', "lady, woman".<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=dam dam (n.2)], retrieved Mar. 1, 2014.</ref>
+; [[wikt:doe|doe]] : possibly from a Brittonic root ''*da-'',<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=doe doe (n.)], retrieved Mar. 1, 2014.</ref> perhaps related to ''*damā-'' above. 
+; [[wikt:dunnock|dunnock]] : from Brittonic ''*dunn-āco-s, *dunn-occo-s'', meaning "little brown one".
+; [[wikt:flannel|flannel]] : possibly from Brittonic ''*u̯lan-ello-s'', meaning "little woollen thing". Possibly from Gaulish via French (''flaine'' + diminutive suffix), or loaned from Welsh (''gwlanen'').<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=flannel flannel (n.)], retrieved Mar. 1, 2014.</ref>
+; [[wikt:gob|gob]] : possibly from Brittonic ''gobbo-s'', meaning "mouth, lump, mouthful". Equally possibly from Gaelic, or Gaulish via French.<ref>Douglas Harper, "Online Etymology Dictionary" - [http://www.etymonline.com/index.php?term=gob gob (n.)], retrieved Mar. 1, 2014.</ref>
+; [[wikt:nook|nook]] : possibly from Brittonic ''nuccā-'', meaning "nook, cranny, small hole"; French ''niche'' would be cognate.
+; [[Yan tan tethera|yan, tan, tethera etc.]] : ''and variants''. from Brittonic ''*oinā, *deŭai, *tisrīs'' etc., heavily corrupted by the nature of the survival.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.hildegard.tristram.de/media/tristram_manchester_30-07-07.pdf Why Don’t the English Speak Welsh? - Hildegard Tristram]
+
+[[Category:Lists of English words of Celtic origin|British]]
+
+
+
+
+{{For|English words that originated in Ireland from other sources|Hiberno-English}}
+This is a list of [[English language]] words from the [[Celtic languages|Celtic]] [[Irish language]], ("Irish", The Scots dialect is Gaelic)
+
+;[[banshee]]: (from Irish ''bainsídhe/beansídhe'', "female fairy") ([http://www.webster.com/dictionary/banshee M-W]), "woman of the fairies" ([http://www.bartleby.com/61/46/B0064600.html AHD]) or "...of a fairy mound" ([http://dictionary.reference.com/search?q=banshee&x=0&y=0 RH]). The Modern Irish word for woman is ''bean'' /bæn/ and ''síd(h)'' (or ''sí'' in modern spelling) is an Irish term referring to a 'fairy mound'. (See [[Sidhe]].) However, in traditional Irish mythology a banshee is seen as an omen of death.
+;[[bog]]: (from ''bogach'' meaning "marsh/peatland") a wetland ([[OED]]).
+;[[boreen]]: (from ''bóithrín'' meaning "small road") a narrow rural road in Ireland.
+;[[boycott]]: abstaining from using, buying, or dealing with a person, organization, or country as an expression of protest. (from [[Charles Boycott|Captain Charles Boycott]], a 19th-century British land agent)
+;brat: a cloak or overall - now only in regional dialects (from Old Irish '' bratt'' meaning "cloak, cloth" [[OED]])
+;[[brogues]]: (from ''bróg'' meaning "shoe") a type of [[shoe]] (OED).
+;[[brogue]]: A strong regional [[Accent (dialect)|accent]], especially an Irish or Scots one. Presumably used originally with reference to the [[footwear]] of speakers of the brogue (OED).
+;[[wikt:clabber|clabber]], [[wikt:clauber|clauber]]: (from ''clábar'') wet clay or mud; curdled milk.
+;[[clock]]: O.Ir. ''clocc'' meaning "bell"; into [[Old High German]] as ''glocka, klocka''<ref name=Kluge>''Kluge, F. ''Etymologisches Wörterbuch der deutschen Sprache'' (1989) [[de Gruyter]] ISBN 3-11-006800-1</ref> (whence Modern German ''Glocke'') and back into English via [[Flemish]];<ref>Hoad, TF (ed) ''The Concise Oxford Dictionary of English Etymology'' (1993) Oxford University Press ISBN 0-19-283098-8</ref> cf also Welsh ''cloch'' but the giving language is Old Irish via the hand-bells used by early Irish missionaries.<ref name=Kluge/><ref name=Harper>[http://www.etymonline.com/index.php?search=clock Online Etymology Dictionary] by Douglas Harper</ref>
+;[[Girl|colleen]]: (from ''cailín'' meaning "young woman") a [[girl]] (usually referring to an Irish girl) (OED).
+;[[Cirque|corrie]]: a cirque or mountain lake, of glacial origin. (OED) Irish or Scots Gaelic ''coire'' 'Cauldron, hollow'
+;[[craic]]: [[fun]], used in Ireland for fun/enjoyment. The word is actually English in origin; it entered into Irish from the English "crack" via [[Ulster Scots dialects|Ulster Scots]]. The [[Gaelicisation|Gaelicised]] spelling ''craic'' was then reborrowed into English. The ''craic'' spelling, although preferred by many Irish people, has garnered some criticism as a ''faux''-Irish word.<ref>{{cite news |title=The Words We Use |work=[[The Irish Times]] |page=27 |date=1992-12-05 |first=Diarmaid |last=Ó Muirithe }}; reprinted in {{cite book |title=The Words We Use |first=Diarmaid |last=Ó Muirithe |pages=154–5 |date=October 2006 |isbn=978-0-7171-4080-0 |publisher=[[Gill & Macmillan]] |location=[[Dublin]]}}
+</ref>
+;[[cross]]: The ultimate source of this word is Latin ''crux'', the Roman [[gibbet]] which became a symbol of Christianity. Some sources say the English wordform comes from Old Irish ''cros''.<ref name=Harper2>[http://www.etymonline.com/index.php?search=cross&searchmode=term Online Etymology Dictionary] by Douglas Harper</ref><ref name=Collins /> Other sources say the English comes from Old French ''crois''<ref name=Skeat>''An Etymological Dictionary of the English Language'' by Walter W. Skeat (1888) (900 pages). [http://www.archive.org/details/etymologicaldict00skeauoft Downloadable at Archive.org].</ref> and others say it comes from Old Norse ''kross''.<ref name=Weekely1921>''An Etymological Dictionary of Modern English'' by Ernest Weekley (1921) (850 pages). [http://www.archive.org/details/etymologicaldict00weekuoft/ Downloadable at Archive.org].</ref>
+;[[Ridge|drum (ridge)]], [[drumlin]]: (from ''drom/druim'' meaning "ridge") a ridge often separating two long narrow valleys; a long narrow ridge of [[Drift (geology)|drift]] or [[diluvial]] formation. ''Drumlin'' is a linguistic [[diminutive]] of ''drum'', and it means a small rounded hill of glacial formation, often seen in series (OED). A landscape of many Drumlins occurs in some parts of Ireland (including counties Cavan and Armagh). ''Drumlin'' is an established technical word in geology, but ''drum'' is almost never used.
+;[[drisheen]]: (from ''drisín'' or ''drúishin'').
+;[[dulse]]:<ref name=Collins>''Collins English Dictionary 21st Century Edition'' Harper Collins (2001) ISBN 0-00-472529-8</ref> (from Old Irish ''duilesc'').
+;[[esker]]: (from ''eiscir'') an elongated [[mound]] of post-glacial gravel, usually along a [[river valley]] (OED). Esker is a technical word in geology.
+;[[Fenian]]: (from ''[[Fianna]]'' meaning "semi-independent warrior band") a member of a 19th-century Irish nationalist group (OED).
+;[[Fiacre (carriage)|fiacre]]: a small four-wheeled [[carriage]] for hire, a hackney-coach. [[Saint Fiacre]] was a seventh-century Irish-born saint who lived in France for most of his life. The English word ''fiacre'' comes from French. (OED)
+;[[Gallowglass]]: (from ''gallóglach'') a Scottish Gaelic mercenary soldier in Ireland between mid 13th and late 16th centuries.
+;[[wikt:galore|galore]]: (from ''go leor'' meaning "til plenty") a lot (OED).
+;gob: (literally ''[[beak]]'') [[mouth]], though used in colloquial Irish more often to refer to a 'beaky' nose, i.e. a sticky-beak. Perhaps from Irish. (OED)
+;[[wikt:griskin|griskin]]: (from ''griscín'') a lean cut of meat from the loin of a pig.
+;[[hooliganism|hooligan]]: (from the Irish family name ''Ó hUallacháin'', anglicised as ''O'Houlihan'') one who takes part in rowdy behaviour and vandalism.
+;[[keening]]: (from ''caoinim'' ({{IPA-ga|ˈkˠiːnʲimʲ}}) meaning "I wail") to lament, to wail mournfully (OED). No relation to "keen" = eager.
+;[[wikt:kibosh|kibosh]], [[wikt:kybosh|kybosh]]: to finish, to put an end to: "That's put the kibosh on it". The OED says the origin is obscure and possibly Yiddish. Other sources,<ref>{{cite web|url=http://www.etymonline.com/index.php?l=k&p=1|work=Etymology online|title=kibosh|accessdate =2010-02-20}}</ref> suggest that it may be from the Irish ''an chaip bháis'' meaning "the cap of death" (a reference to the "black cap" worn by a judge passing sentence of capital punishment, or perhaps to the gruesome method of execution called [[pitchcapping]]);<ref>{{cite book|last=Share|first=Bernard|title=Slanguage, A Dictionary of Irish Slang}}</ref> or else somehow connected with "bosh", from Turkish "boş" (empty). (Caip bháis - pronounced as kibosh - is also a word in Irish for a candle-snuffer.)
+;[[Leprechaun]]: (from ''leipreachán', based on Old Irish luchorpán, from lu 'small' + corp 'body' (ODE).
+;[[Limerick (poetry)|Limerick]]: (from ''Luimneach'')
+;[[lough]]: (from ''loch'') a lake, or arm of the sea. According to the OED, the spelling "lough" was originally a separate word with a similar meaning but different pronunciation, perhaps from Old Northumbrian: this word became obsolete, effectively from the 16th century, but in Anglo-Irish its spelling was retained for the word newly borrowed from Irish.
+;[[wikt:phoney|phoney]]: (probably from the English ''fawney'' meaning "gilt brass ring used by swindlers", which is from Irish ''fainne'' meaning "ring") fake.<ref name=PHoney>{{cite journal|last=Cohen|first=Paul S|title=The genuine etymological story of ''phone(e)y''|journal=Transactions of the Philological Society|year=2011|volume=109|issue=1|pages=1–11|doi=10.1111/j.1467-968X.2011.01247.x}}</ref>
+;[[poteen]]: (from ''póitín'') hooch, bootleg alcoholic drink (OED)
+;[[shamrock]]: (from ''seamróg'') a clover, used as a symbol for Ireland (OED).
+;[[The Sean-Bhean bhocht|Shan Van Vocht]]: (from ''sean-bhean bhocht'' meaning "poor old woman") a literary name for Ireland in the 18th and 19th centuries.
+;[[shebeen]]: (from ''síbín'' meaning "a mugful") unlicensed house selling alcohol (OED).
+;[[Shillelagh (club)|shillelagh]]: (from ''sailéala'' meaning "a club") a wooden club or cudgel made from a stout knotty stick with a large knob on the end.
+;[[Sidhe]]: ({{IPA-ga|ʃiː}}) the fairy folk of Ireland, from ''(aos) sídhe'' (OED). See [[banshee]].
+;[[wikt:sleeveen|sleveen]], [[wikt:sleiveen|sleiveen]]: (from ''slíghbhín/slíbhín'') an untrustworthy or cunning person. Used in Ireland and Newfoundland (OED).
+;'''slew''': (from ''sluagh'' meaning "a large number") a great amount (OED). Note: as in ''a slew of new products'', not as in ''slay''.
+;slob: (from ''slab'') mud (OED). Note: the English words slobber and slobbery do not come from this; they come from Old English.<ref name=Skeat />
+;[[slogan]]: (from ''sluagh-ghairm'' meaning "a battle-cry used by Gaelic clans") Meaning of a word or phrase used by a specific group is metaphorical and first attested from 1704.<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=slogan&searchmode=none Online Etymology Dictionary]</ref>
+;smithereens: small fragments, atoms. In phrases such as 'to explode into smithereens'. This is the word ''smithers'' (of obscure origin) with the Irish diminutive ending. Whether it derives from the modern Irish ''smidrín'' or is the source of this word is unclear (OED).
+;tilly: (from ''tuilleadh'' meaning "a supplement") used to refer to an additional article or amount unpaid for by the purchaser, as a gift from the vendor (OED). Perhaps more prevalent in Newfoundland than Ireland. James Joyce, in his ''[[Pomes Penyeach]]'' included a thirteenth poem as a bonus (as the book sold for a shilling, twelve poems would have come to a penny each), which he named "Tilly," for the extra sup of milk given to customers by milkmen in Dublin.<ref>{{cite book |last1=Fargnoli |first1=A. Nicholas |last2=Gillespie |first2=Michael Patrick |title=Critical Companion to James Joyce: A Literary Reference to His Life and Work |url=http://books.google.com/?id=QaHVANQByVUC&pg=PA130&lpg=PA130&dq=james+joyce+tilly+extra#v=onepage&q=james%20joyce%20tilly%20extra&f=false |page=130 |date=1995 |isbn=0-8160-6232-3 |accessdate=July 2, 2014 }}</ref>
+;[[Rapparee#Wood kerne and Tories|tory]]: originally an Irish outlaw, probably from the Irish verb ''tóir'' meaning "pursue" (OED).
+;[[Turlough (lake)|turlough]]: a seasonal lake in limestone area (OED) Irish  ''tur loch'' 'dry lake'
+;[[Whisky|whiskey]]: (from ''uisce beatha'' meaning "water of life") (OED).
+
+==See also==
+* [[Hiberno-English]]
+* [[List of English words of Scottish Gaelic origin]]
+* [[Lists of English words of Celtic origin]]
+* [[Lists of English words of international origin]]
+
+== References ==
+{{Reflist}}
+
+{{TWCleanup}}
+
+{{DEFAULTSORT:List Of English Words Of Irish Origin}}
+[[Category:Lists of English words of Celtic origin|Irish]]
+[[Category:Ireland-related lists|Words]]
+
+
+This is a list of [[English language|English]] words borrowed from [[Scottish Gaelic language|Scottish Gaelic]]. Some of these are common in [[Scottish English]] and [[Scots language|Scots]] but less so in other varieties of English.
+
+==Words of Scottish Gaelic origin==
+[[File:Cairn at Garvera, Surselva, Graubuenden, Switzerland.jpg|right|thumb|200px|[[Cairn]]]]
+[[File:Tetrao urogallus Richard Bartz.jpg|right|thumb|200px|[[Capercaillie]]]]
+[[File:Claymore2-Morges.jpg|right|thumb|200px|[[Claymore]]]]
+[[File:Trouser-parts.svg|right|thumb|200px|[[Trousers]]]]
+
+; [[Bannock (food)|Bannock]]: a variety of bread. Cf. Latin ''panicium'', Old English ''bannuc''.
+; [[Bard]]:<ref name="Collins">''Collins English Dictionary 21st Century Edition'' Harper Collins (2001) ISBN 0-00-472529-8</ref> The word's earliest appearance in English is in 15th century Scotland with the meaning "vagabond minstrel". The modern literary meaning, which began in the 17th century, is heavily influenced by the presence of the word in ancient Greek (''bardos'') and ancient Latin (''bardus'') writings (e.g. used by the poet [[Lucan]], 1st century AD), which in turn took the word from the [[Gaulish language]].
+; [[Mountain|Ben]]:<ref name=Collins/> From ''beinn'' {{IPA-gd|peiɲ|}}, mountain.
+; Bodach : Old man.
+; [[Bog]]:<ref name=Collins/> From ''bog'' {{IPA-gd|pok|}}, soft (related to ''boglach'' swamp), from [[Old Irish]] ''bocc''.<ref name=MacBain>MacBain, A. (1911) ''An Etymological Dictionary of the Gaelic Language''</ref>  14th century.<ref name="Oxford">Hoad, T.F. (ed) (1986) ''Oxford Concise Dictionary of English Etymology'' Oxford ISBN 0-19-283098-8</ref>
+; Bothan : A hut, often an illegal drinking den. (cf [[Bothy]])
+; [[Caber toss]]: An athletic event, from the Gaelic word "cabar" which refers to a wooden pole.
+; Cailleach : An old woman, a hag, or a particular ancient goddess.
+; [[Cairn]]:<ref name=Collins/> From ''càrn''. The word's meaning is much broader in Gaelic, and is also used for certain types of rocky mountains.
+; [[Caman]]: Another name for Shinty.
+; [[Capercaillie]]:<ref name=Collins/> From ''capall-coille'' {{IPA-gd|kʰaʰpəlˠ̪ˈkʰɤʎə|}}, meaning "horse of the woods"
+; [[Céilidh|Ceilidh]] : A 'social gathering' or, more recently, a formal evening of traditional Scottish Social Dancing.
+; [[Canntaireachd]]: a type of pipe music.
+; [[Clan]]:<ref name=Collins/> From the compound form ''clann'' {{IPA-gd|kʰlˠ̪an̪ˠ|pron}}, from ''clann'', children or family. Old Irish ''cland''.<ref name=MacBain/>
+; [[Claymore]]:<ref name=Collins/> A large broadsword, from ''claidheamh mór'' {{IPA-gd|kʰlˠ̪ajəv moːɾ|}}, great sword.
+; [[Corrie (disambiguation)|Coire]]: literally a "kettle", meaning a [[Cirque|corrie]], from the same root.
+; [[Craig (landform)|Craig]]:<ref name=Collins/> From ''creag'' {{IPA-gd|kʲʰɾʲek|}}, a cliff.
+; Deoch-an-dorus (various spellings) : meaning a "drink at the door". Translated as "one for the road", i.e. "one more drink before you leave".
+; Fear an taighe: an MC (master of ceremonies), Gaelic lit. "the man of the house"
+; [[wikt:Special:Search/galore|Galore]]:<ref name=Collins/> From ''gu leor'', enough.
+; [[Ghillie]]:<ref name=Collins/> a type of servant, now usually somebody in charge of fishing and rivers, and also [[ghillie suit]] used as a form of camouflage, from ''gille'' {{IPA-gd|kʲiʎə|}}, boy or servant.
+; [[Glen]]:<ref name=Collins/> From ''gleann'' {{IPA-gd|klaunˠ̪|}}, a valley.
+; [[wikt:gob|Gob]]:<ref name=Collins/> From ''gob'', beak or bill.
+; Kyle or Kyles : Straits from Gaelic Caol & Caolais.
+; [[Loch]]:<ref name=Collins/> From ''loch'' {{IPA-gd|lˠ̪ɔx|}}.
+; [[Lochaber axe]] : From ''Loch Abar'' {{IPA-gd|lˠ̪ɔxˈapəɾ|}}, [[Lochaber]] + axe.
+; [[Mackintosh]]:<ref name=Collins/> After [[Charles Macintosh]] who invented it. From ''Mac an Tòisich'' {{IPA-gd|maʰk ən̪ˠ t̪ʰɔːʃiç|}}, son of the chieftain.
+; [[Mod (Scotland)|Mod]]:<ref name=Collins/> A Gaelic festival, from ''mòd'' {{IPA-gd|mɔːt̪|}}, assembly, court.
+; [[Pet]]:<ref>[http://dictionary.oed.com/cgi/entry/50176592?query_type=word&queryword=pet&first=1&max_to_show=10&sort_type=alpha&result_place=7&search_id=OoPQ-pfsUSs-342&hilite=50176592 Oxford English Dictionary]</ref> From ''peata'', tame animal.
+; [[Pibroch]]:<ref name=Collins/> From ''pìobaireachd'' {{IPA-gd|pʰiːpəɾʲəxk|}}, piping.
+; [[Pillion]]:<ref name=Collins/> From ''pillean'' {{IPA-gd|pʰiʎan|}}, pack-saddle, cushion.
+; [[Plaid (pattern)|Plaid]]:<ref name=Collins/> From ''plaide'' {{IPA-gd|pʰlˠ̪atʲə|}}, blanket. Alternatively a Lowland Scots loanword [http://www.dsl.ac.uk/dsl/getent4.php?plen=17774&startset=29929824&query=PLAID&fhit=plaid&dregion=form&dtext=snd#fhit], from the past participle of ''ply'', to fold, giving ''plied'' then ''plaid'' after the Scots pronunciation.
+; [[Rock Ptarmigan|Ptarmigan]]:<ref name=Collins/> From ''tàrmachan'' {{IPA-gd|tʰaːɾməxan|}}. 16th Century.
+; [[Shindig (disambiguation)|Shindig]]<!--intentional link to DAB page-->:<ref name=Collins/> From ''sìnteag'' to skip, or jump around
+; [[Slogan]]:<ref name=Collins/> From ''sluagh-ghairm'' {{IPA-gd|s̪lˠ̪uəɣɤɾʲɤm|}}, battle-cry
+; [[Sporran]]:<ref name=Collins/> Via ''sporan'' {{IPA-gd|s̪pʰɔɾan|}} from Old Irish ''sboran'' and ultimately Latin ''bursa'', purse.<ref>[http://www.ceantar.org/Dicts/MB2/mb36.html Alexander MacBain's Etymological Dictionary, Gairm Publications, 1982]</ref>
+; [[wikt:Special:Search/spunk|Spunk]]:<ref name=Collins/> From ''spong'' {{IPA-gd|s̪pʰɔŋɡ|}}, tinder and also sponge. From Early Irish ''sponge'', from Latin ''spongia'', from Greek ''σπογγιά'', a sponge.<ref name=MacBain/>
+; [[Strontium]]:<ref name=Collins/> from [[Strontian|Sròn an t-Sìthein]] {{IPA-gd|s̪t̪ɾɔːn əɲ tʲʰiːɛɲ|}} meaning "the point at the fairy hill",<ref>[http://www.scottish.parliament.uk/vli/language/gaelic/pdfs/placenamesP-Z.pdf Iain Mac an Tàilleir: Scottish Placenames]</ref> name of a mountain, near which the element was discovered.
+; Tack & [[Tacksman]] (a lessee) : From Scots ''tak'' (take) cf. Old Norse ''taka''.
+; [[Trousers]]:<ref name=Collins/> from ''triubhas'' {{IPA-gd|t̪ʰɾu.əs̪|}}, via "trews".
+; [[Whisky]]:<ref name=Collins/> Short form of ''whiskybae'', from ''uisge-beatha'' {{IPA-gd|ɯʃkʲəˈpɛhə|}}, water of life.
+
+==Words of Scottish or Irish Gaelic origin==
+The following words are of [[Goidelic]] origin but it cannot be ascertained whether the source language was [[Old Irish]] or one of the modern Goidelic languages.
+; [[Brogue]]:<ref name=Collins>''Collins English Dictionary 21st Century Edition'' Harper Collins (2001) ISBN 0-00-472529-8</ref> An accent, Irish, or Scottish Gaelic ''bròg'' {{IPA-gd|pɾɔːk|}}, shoe (of a particular kind worn by Irish and Gaelic peasants), [[Early Irish]] ''bróc'', from Norse ''brókr''<ref name=MacBain>MacBain, A. (1911) ''An Etymological Dictionary of the Gaelic Language''</ref>
+; Hubbub:<ref name=Collins/><ref name=Oxford>Hoad, T.F. (ed) (1986) ''Oxford Concise Dictionary of English Etymology'' Oxford ISBN 0-19-283098-8</ref> Irish, or Scottish Gaelic ''ubub'' {{IPA-gd|upup|}}, an exclamation of disapproval.
+; Shanty : Irish, or Scottish Gaelic ''sean taigh'' {{IPA-gd|ʃɛn tʰɤj|}}, an old house
+; Smidgen : Irish, or Scottish Gaelic ''smidean'' {{IPA-gd|s̪mitʲan|}}, a very small bit (connected to Irish ''smidirín'', smithereen), from ''smid'', syllable or a small bit.{{Citation needed|date=June 2008}}
+; [[Strath]]:<ref name=Collins/> Irish, or Scottish Gaelic ''srath'' {{IPA-gd|s̪t̪ɾah|}}, a wide valley.
+
+==Gaelic words mostly used in Lowland Scots==
+[[Image:Lairig Leacach Bothy.jpg|right|thumb|200px|[[Bothy]]]]
+[[File:Caber 05SV 001.jpg|right|thumb|200px|[[Caber]]]]
+[[File:Coire an t-Sneachda.jpg|right|thumb|200px|Corrie]]
+[[File:Berneray Machair (hazelisles).jpg|right|thumb|200px|[[Machair]]]]
+[[File:Quaich2.jpg|right|thumb|200px|[[Quaich]]]]
+
+Because of the wide overlap of [[Scottish English]] and [[Scots language|Lowland Scots]], it can be difficult to ascertain if a word should be considered Lowland Scots or Scottish English. These words tend to be more closely associated with Lowland Scots but can occur in Scottish English too.
+
+; Airt:<ref name=Collins/> Point of the compass, from ''àird,'' {{IPA-gd|aːrˠtʲ}}, a point.
+; [[Bothy]]:<ref name=Scots/> A hut, from ''bothan'' {{IPA-gd|pɔhan|}}, a hut, cf.Norse ''būð'',  Eng. ''booth''.
+; [[Caird]]:<ref name=Collins/> A tinker, from ''ceaird'' {{IPA-gd|kʲlˠ̪ɛrˠtʲ|}}, the plural of ''ceàrd'', tinkers.
+; [[Caber]]:<ref name=Collins/> From ''cabar'' {{IPA-gd|kʰapəɾ|}}, pole.
+; Cailleach:<ref name=Collins/> From ''cailleach'' {{IPA-gd|kʰaʎəx|}}, old woman.
+; [[Caman]]:<ref name=Collins/> From ''caman'' {{IPA-gd|kʰaman|}}, shinty stick. Also in use in Scotland the derived [[camanachd]], shinty.
+; [[Cateran]]:<ref name=Collins/> From ''ceatharn'' {{IPA-gd|kʲʰɛhərˠn|}}, fighting troop.
+; [[Ceilidh]]:<ref name=Collins/> From ''céilidh'' {{IPA-gd|kʲʰeːli|}}, a social gathering.
+; [[Clachan]]:<ref name=Collins/> From ''clachan'' {{IPA-gd|kʰlˠ̪axan|}}, a small settlement.
+; [[Clarsach]]:<ref name=Collins/> A harp, from ''clàrsach'' {{IPA-gd|kʰlˠ̪aːrˠs̪əx|}}, a harp.
+; [[Cirque|Corrie]]:<ref name=Collins/> From ''coire'' {{IPA-gd|kʰɤɾʲə|}}, kettle.
+; [[Stirrup cup|Doch-an-doris]]:<ref name=Collins/> Stirrup cup, from ''deoch an dorais'' {{IPA-gd|tʲɔx ən̪ˠ t̪ɔɾəʃ|}}, drink of the door.
+; [[Fillibeg]]:<ref name=Collins/> A kilt, from ''féileadh beag'' {{IPA-gd|feːləɣ pek|}}, small kilt.
+; [[Ingle (disambiguation)|Ingle]]:<ref name=Collins/> From ''aingeal'' {{IPA-gd|aiŋʲɡʲəlˠ̪|}}, a now obsolete word for fire.
+; [[Kyle (disambiguation)|Kyle]]:<ref name=Collins/> From ''caol'' {{IPA-gd|kʰɯːlˠ̪|}}, narrow.
+; [[Lochan]]:<ref name=Collins/> From ''lochan'' {{IPA-gd|lˠ̪ɔxan|}}, a small loch.
+; [[Machair]]:<ref name=Collins/> From ''machair'' {{IPA-gd|maxəɾʲ|}}, the fertile land behind dunes.
+; [[Quaich]]:<ref name=Collins/> From ''cuach'' {{IPA-gd|kʰuəx|}}, a cup.
+; [[Sgian dubh|Skean]]:<ref name="Companion">McArthur. T. ''The Oxford Companion to the English Language'' [[Oxford University Press]] 1992 ISBN 0-19-214183-X</ref> From ''sgian'' {{IPA-gd|s̪kʲian|}}, a knife.
+; [[Slughorn]] : Also from ''sluagh-ghairm'', but erroneously believed by [[Thomas Chatterton]] and [[Robert Browning]] to refer (apparently) to some kind of [[trumpet]].<ref>Simpson, J.A. and Weiner E.S.C. ''The Oxford English Dictionary'' Second Edition Vol XV</ref>
+
+; Inch:<ref name=Collins/> And island, from Irish and Scottish Gaelic ''innis'' {{IPA-gd|ˈiɲiʃ|}}.
+; Och:<ref name=Scots/> Irish and Scottish Gaelic ''och'' {{IPA-gd|ɔx|}}, exclamation of regret. Cf. English ''agh'', Dutch and German ''ach''.
+; Oe:<ref name=Scots/> Grandchild, Irish and Scottish Gaelic ''ogha'' {{IPA-gd|oə|}}, grandchild.
+; [[Samhain]] : Irish and Scottish Gaelic ''Samhain'' {{IPA-gd|s̪auɛɲ|}}, November and related to ''Oidhche Shamhna'', [[Halloween]].
+; [[Senachie|Shennachie]]:<ref name="Scots">Robinson, M. (ed) ''The Concise Scots Dictionary'' Chambers 1985 ISBN 0-08-028491-4</ref> Irish and Scottish Gaelic ''seannachaidh'' {{IPA-gd|ʃɛn̪ˠəxi|}}, storyteller.
+; [[Sassenach]]:<ref name=Collins/> Irish and Scottish Gaelic ''Sasannach'' {{IPA-gd|s̪as̪ən̪ˠəx|}}, An Englishman, a Saxon.
+
+; Abthen (or Abthan<ref name=Scots/>) : jurisdiction and territory of pre-Benedictine Scottish monastery, from [[Dagger (typography)|†]]''abdhaine'' {{IPA-gd|ˈapɣəɲə|}}, abbacy.
+; Airie:<ref name=Scots/> [[shieling]], from ''àiridh'' {{IPA-gd|ˈaːɾʲi|}}, shieling.
+; Aiten:<ref name=Scots/> juniper, from ''aiteann'' {{IPA-gd|ˈaʰtʲən̪ˠ|}}, juniper.
+; Bourach:<ref name=Scots/> A mess, from ''bùrach'' {{IPA-gd|ˈpuːɾəx|}}, a mess.
+; Car, ker:<ref name=Scots/> Left-handed, from ''cearr'' {{IPA-gd|kʲʰaːrˠ|}}, wrong, left.
+; Crine:<ref name=Scots/> To shrink, from ''crìon'' {{IPA-gd|kʰɾʲiən|}}, to shrink.
+; Crottle:<ref name=Scots/> A type of [[lichen]] used as a [[dye]], from ''crìon'' {{IPA-gd|kʰɾɔʰt̪əlˠ̪|}}, lichen.
+; Golack:<ref name=Scots/> An insect, from ''gobhlag'' {{IPA-gd|ˈkoːlˠ̪ak|}}, an earwig.
+; Keelie:<ref name=Scots/> A tough urban male, from ''gille'' {{IPA-gd|ˈkʲiːʎə|}}, a lad, a young man.
+; Ketach:<ref name=Scots/> The left hand, from ''ciotach'' {{IPA-gd|ˈkʲʰiʰt̪əx|}}, left-handed.
+; Sonse:<ref name=Scots/> From ''sonas'' {{IPA-gd|s̪ɔnəs̪|}}, happiness, good fortune. Also the related ''sonsy''.
+; Spleuchan:<ref name=Scots/> A pouch, from ''spliùchan'' {{IPA-gd|ˈs̪pljuːxan|}}, a pouch, purse.
+; Toshach:<ref name=Scots/> Head of a clan, from ''toiseach'' {{IPA-gd|ˈt̪ʰɔʃəx|}}, beginning, front.
+
+==Place-name terminology==
+[[File:KilmarnockJohnFinnieStreet.jpg|right|thumb|200px|[[Kilmarnock]]]]
+
+There are numerous additional place-name elements in Scotland which are derived from Gaelic, but the majority of these has not entered the English or Scots language as productive nouns and often remain opaque to the average Scot. A few examples of such elements are:
+
+*a(u)ch- from Gaelic ''achadh'', a field; hence [[Auchentoshan]], [[Auchinleck]]
+*ard- from Gaelic ''àird'', a height or promontory; hence [[Ardnamurchan]], etc.
+*bal- from Gaelic ''baile'', a town; hence [[Balgowan, Dundee|Balgowan]], [[Balgay]] etc.
+*dal- from Gaelic ''dail'', a meadow (not to be confused with "dale", from the Norse ''dalr'' meaning a valley); hence [[Dalry (disambiguation)|Dalry]]
+*drum- from Gaelic ''druim'', a ridge; hence [[Drumchapel]], [[Drumnadrochit]] etc.
+*dun- from Gaelic ''dun'', a fort; hence [[Dundee]], [[Dumbarton]], Dunedin/[[Edinburgh]]
+*inver- from Gaelic ''inbhir'', a river mouth or confluence; hence [[Inverclyde]], [[Inverleith]]
+*kil- from Gaelic ''cill'', a churchyard; hence [[Kilmarnock]], [[Kilbride (disambiguation)|Kilbride]] etc.
+*kin- from Gaelic ''ceann'', a head; hence [[Kinlochleven]], [[Kinloss]] etc.
+
+==See also==
+* [[List of English words of Scots origin]]
+* [[List of English words of Irish origin]]
+* [[List of English words of Old Irish origin]]
+* [[List of English words of Welsh origin]]
+* [[List of English words of Celtic origin]]
+* [[Lists of English words of international origin]]
+
+== References ==
+<References/>
+
+{{Scottish Gaelic linguistics}}
+
+{{DEFAULTSORT:List Of English Words Of Scottish Gaelic Origin}}
+[[Category:Scottish Gaelic language]]
+[[Category:Lists of English words of Celtic origin|Scottish gaelic]]
+[[Category:Scottish English]]
+
+
+
+
+{{Expand list|date=August 2008}}
+{{Wiktionary|Category:English terms derived from Welsh}}
+
+This is a list of [[English language]] words of [[Welsh language]] origin. As with the Goidelic languages, the Brythonic tongues are close enough for possible derivations from [[Cumbric]], [[Cornish language|Cornish]] or [[Breton language|Breton]] in some cases.
+
+Beyond the loan of common nouns, there are numerous English toponyms, surnames, personal names or nicknames derived from Welsh (see [[Celtic toponymy]], [[Celtic onomastics]]).<ref>Max Förster ''Keltisches Wortgut im Englischen'', 1921, cited by [[J.R.R. Tolkien]], ''[[English and Welsh]]'', 1955. "many 'English' surnames, ranging from the rarest to the most familiar, are linguistically derived from Welsh (or British), from place-names, patronymics, personal names, or nick-names; or are in part so derived, even when that origin is no longer obvious. Names such as Gough, Dewey, Yarnal, Merrick, Onions, or Vowles, to mention only a few."
+</ref>
+
+==Words that derive from Welsh==
+[[File:Cardigan Welsh Corgi.jpg|right|thumb|200px|Welsh Corgi]]
+<!-- Please cite a documented etymology before adding words to this list.  If you don't have one, put them on the talk page and someone will look them up.  Thanks! NB: OED is a SUBSCRIPTION site. Please do not link to subscription sites. -->
+; avon : from Welsh ''afon''; Cornish ''avon''
+; [[bara brith|barabrith]] : from ''bara brith'' (speckled bread) a contemptuous term for the English.
+; [[bard]] : from Old Celtic ''bardos'', either through Welsh ''bardd'' (where the bard was highly respected) or Scottish ''bardis'' (where it was a term of contempt); Cornish ''bardh''
+; [[cawl]] : a traditional Welsh soup/stew; Cornish ''kowl''
+; [[coracle]] : from ''corwgl''.  But this Welsh term was derived from the Latin ''corium'' meaning "leather or hide", the material from which coracles are made. <ref>[http://etymonline.com/index.php?term=corium&allowed_in_frame=0 Online Etymology Dictionary]</ref>
+; [[Welsh Corgi|corgi]] : from ''cor'', "dwarf" + ''gi'' ([[soft mutation]] of ''ci''), "dog".
+; [[cliff|crag]] : from an [[Insular Celtic languages|Insular Celtic]] source, perhaps from Welsh ''craig'or 'Carreg''.;<ref name=ErnestWeekley1921 /><ref name =WalterSkeat /> Cornish ''karrek'' 
+; [[cromlech]] : from ''crom llech'' literally "crooked flat stone"
+; [[cwm (landform)|cwm]]
+: from ''cwm'' "coomb." Cornish; ''komm''; passed into Old English as 'cumb'
+; [[dad]] : from Welsh ''tad''. From a common Proto-Indo-European root used in many other languages, but almost certainly entered English from Welsh as the Old English equivalent was ''fæder'' (father) from Proto-Germanic ''fader'' Cornish; ''tas''
+; [[eisteddfod]] :  from Welsh, lit. "session," from eistedd "to sit" (from sedd "seat," cognate with L. sedere; see sedentary) + bod "to be" (cognate with O.E. beon; see be).<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=eisteddfod&searchmode=none Online Etymology Dictionary]</ref>
+; [[flannel]] : the [[Oxford English Dictionary]] says the etymology is "uncertain", but Welsh ''gwlanen''  = "flannel wool" is likely.   An alternative source is Old French ''flaine'', "blanket". The word has been adopted in most European languages. An earlier English form was ''flannen'', which supports the Welsh etymology. Shakspeare's [[The Merry Wives of Windsor]] contains the term "the Welsh flannel".<ref name = ErnestWeekley1921>{{Citation | url = http://www.archive.org/details/etymologicaldict00weekuoft/ | title = An Etymological Dictionary of Modern English | first = Ernest | last = Weekley | year = 1921}}.</ref><ref name=WalterSkeat>{{Citation | url = http://www.archive.org/details/etymologicaldict00skeauoft | title = An Etymological Dictionary the English Language | first = Walter W | last = Skeat | year = 1888}}.</ref>
+; [[flummery]] : from ''llymru''<ref name=ErnestWeekley1921 /><ref name=WalterSkeat />
+; [[hiraeth]] :  homesickness tinged with grief or sadness over the lost or departed. It is a mix of longing, yearning, nostalgia, wistfulness, or an earnest desire.
+; [[kistvaen]] : from ''[[cist]]'' (chest) and ''maen'' (stone).
+; [[wikt:lech|lech]] : from ''llech.''<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?term=lech | contribution = Lech}}.</ref>
+; possibly [[penguin]] : Possibly from ''pen gwyn'', "white head". "The fact that the penguin has a black head is no serious objection."<ref name=ErnestWeekley1921 /><ref name=WalterSkeat /> It may also be derived from the [[Breton language]], or the [[Cornish Language]], which are all closely related.  However, dictionaries suggest the derivation is from [[Welsh language|Welsh]] ''pen'' "head" and ''gwyn'' "white", including the [[Oxford English Dictionary]],<ref name = "OED">[http://dictionary.oed.com/cgi/entry/50174529?query_type=word&queryword=penguin&first=1&max_to_show=10&sort_type=alpha&result_place=1&search_id=e9qK-031OnY-14734&hilite=50174529 Oxford English Dictionary]. Accessed 2007-03-21</ref> the [[American Heritage Dictionary]],<ref name = "AHD">[http://www.wordnik.com/words/penguin/etymology American Heritage Dictionary at wordnik.com] Accessed 2010-01-25</ref> the [[Century Dictionary]]<ref name = "Century Dictionary">[http://www.wordnik.com/words/penguin/etymology Century Dictionary at wordnik.com] Accessed 2010-01-25</ref> and [[Merriam-Webster]],<ref name = "MW">[http://www.merriam-webster.com/dictionary/penguin Merriam-Webster] Accessed 2010-01-25</ref> on the basis that the name was originally applied to the [[great auk]], which had white spots in front of its eyes (although its head was black). ''Pen gwyn'' is identical in Cornish and in Breton. An alternative etymology links the word to Latin ''pinguis'', which means "fat". In Dutch, the alternative word for penguin is "fat-goose" (vetgans see: Dutch wiki or dictionaries under Pinguïn), and would indicate this bird received its name from its appearance.
+; tref : meaning “hamlet, home, town.”;<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?term=tref | contribution = Tref}}.</ref> Cornish ''tre''.
+; [[wrasse]] : a kind of sea fish (derived via Cornish ''wrach'', Welsh ''gwrach'' (meaning hag or witch)).<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?term=wrasse | contribution = Wrasse}}.</ref>
+
+==Words that derive from Cornish==
+; [[Bal]]: mine as in [[Balmaiden]] or [[Hemerdon Mine|Hemerdon Bal]] in Devon
+; [[Brill (fish)|brill]] (possibly) : from Cornish ''brilli'', "mackerel".<ref name=ErnestWeekley1921 />
+; [[dolmen]] : from Cornish and/or Breton ''taolvaen'', ''taol'', "table"  and ''maen'', "stone".
+; [[fogou]] : from [[Cornish language|Cornish]] underground structure [[souterrain]] which is found in many [[Iron Age]] settlements in [[Cornwall]]. The purpose of a fogou is no longer known, and there is little evidence to suggest what it might have been.
+; [[Fossicking]] : a form of prospecting
+; perhaps [[Gull]] :Welsh ''gwylan'', Cornish ''guilan'', Breton ''goelann''<ref>http://www.etymonline.com/</ref>
+; [[paw]]: paw, claw, figuratively hand; padgy-paw dialectal newt or lizard 'four-paw'<ref>https://openlibrary.org/books/OL24826762M/The_ancient_language_and_the_dialect_of_Cornwall</ref> (Pawen in Welsh)
+; [[Porbeagle]] : a species of fish.
+; possibly [[Puffin]] : a type of bird.
+; [[Tiddy oggy]]; another term for pasties.
+; [[vug]], '''vugg''', '''vugh''' : from Cornish ''vooga'', "cave".
+; [[Wrasse]] : a type of fish.
+
+Many dialect words in the [[Westcountry dialects|West-Cornish dialect]] of [[English language|English]] are from the [[Cornish language]] itself, however these words are localised to [[Cornwall|West Cornwall]] and therefore it would not be accurate to describe them as having passed into English "proper".
+
+==Words that derive from Breton==
+All Breton-origin words in English come by way of French.
+
+; [[wikt:Special:Search/bijou|bijou]] : from Breton ''bizoù'' ring (''biz'' means finger)
+; [[gull]] : from ''[[wikt:gouelan#Breton|gouelan]]'' (''gouelañ'' means to cry)
+; [[Jewell (surname)|Jewell]] : (surname) from Judicaël (''iud'' means combatant then lord and ''hael'' means generous or magnanimous)
+; [[korrigan]] : from 'dwarf' (diminutive)
+; [[menhir]] : from Breton ''maen'' stone and ''hir'' "long" / "tall", i.e. a "long stone" ([[wikt:main#Welsh|main]] [[wikt:hir#Welsh|hir]] also means long, slender in Welsh)
+; [[truant]] : from Breton ''truan'' (miserable, vagabond, beggar, rogue, villain)
+
+==Words with indirect or possible links==
+[[Old Welsh language|Old Welsh]] origins for the topographical terms [[Tor (geography)|Tor]] (OW ''tŵr'') and [[cliff|crag]] (OW ''carreg'' or ''craig'') are among a number of available Celtic derivations for the Old English antecedents to the modern terms.  However, the existence of similar cognates in both the [[Goidelic languages|Goidelic]], [[Latin]], [[Old French]] and the other [[Brythonic languages|Brythonic]] families makes isolation of a precise origin difficult, such as for example, the adoption of the word ''Cross'' from Latin ''Crux'', Old Irish ''cros'', OE ''Rood'' ;  appearing in Welsh and Cornish as ''Croes'', ''Grows''.
+
+; '''Adder''': The Proto-Indo-European root ''netr-'' led to Latin ''natrix'', Welsh ''neidr'', West Germanic ''nædro'', Old Norse ''naðra'', Middle Dutch ''nadre'', any of which may have led to the English word.
+; '''Bow''': May be from Old English ''bugan'' "to bend, to bow down, to bend the body in condescension," also "to turn back", or more simply from the Welsh word ''bwa''
+; '''Coombe''': meaning "valley", is usually linked with the Welsh ''cwm'', also meaning "valley".  However, the OED traces both words back to an earlier Celtic word, *''kumbos''.  It suggests a direct [[Old English]] derivation for "coombe".
+::(Coumba, or coumbo, is the common western-alpine vernacular word for "glen", and considered genuine gaulish (celtic-ligurian branch). Found in many toponyms of the western Alps like Coumboscuro (Grana valley), Bellecombe and Coumbafréide (Aoste), Combette (Suse), Coumbal dou Moulin (Valdensian valleys). Although seldom used, the word "combe" is included into major standard-french dictionaries. This could justify the celtic origin thesis).{{citation needed|date=April 2012}}
+; '''[[Crockery]]'''
+: It has been suggested that '''crockery''' might derive from the Welsh ''crochan'', as well as the Manx ''crocan'' and Gaelic ''crogan'', meaning "pot".  The OED states that this view is "undetermined".  It suggests that the word derives from Old English ''croc'', via the [[Icelandic language|Icelandic]] ''krukka'', meaning "an earthenware pot or pitcher".
+;'''[[Crumpet]]''': Welsh ''crempog'' Cornish or Breton ''Krampoez''; 'little hearth cakes'
+; '''[[Druid]]''': From the Old Celtic ''derwijes''/''derwos'' ("true knowledge" or literally "they who know the oak") from which the modern Welsh word ''derwydd'' evolved, but travelled to English through Latin (''druidae'') and French (''druide'')
+;'''[[Gull]]''': from either Welsh or Cornish;<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?term=gull&allowed_in_frame=0 | contribution = Gull}}.</ref> Welsh ''gwylan'', Cornish ''guilan'', Breton ''goelann''; all from O.Celt. *voilenno- "gull" (OE ''mæw'')
+;'''[[Pig|Hog]]''': Cornish ''Hogh'' (and [[hedgehog]])
+;'''[[Iron]]''': or at least the modern form of the word "iron" (c/f Old English ''ísern'', proto-Germanic ''*isarno'', itself borrowed from proto-Celtic), appears to have been influenced by pre-existing Celtic forms in the British Isles: Old Welsh ''hearn'', Cornish ''hoern'', Old Gaelic ''íarn'' (Irish ''iaran'', ''iarun'', Scottish ''iarunn'')<ref>{{Citation | title = OED | contribution = Iron}}.</ref>
+;'''[[Lawn]]''': from Welsh ''Llan''  Cornish ''Lan'' (cf. [[Launceston, Cornwall|Launceston]], Breton ''Lann''); Heath; enclosed area of land, grass about a [[Christian]] site of worship from Cornish Lan (e.g. [[Lanteglos-by-Fowey|Lanteglos]], occasionally Laun as in Launceston) or Welsh Llan (e.g. [[Llandewi]])<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?term=lawn&allowed_in_frame=0 | contribution = Lawn}}.</ref>
+;'''[[Penguin]]''': From ''pen gwyn'' meaning ''white-head ''from either Welsh, Cornish or Breton<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?allowed_in_frame=0&search=penguin&searchmode=none | contribution = Penguin}}.</ref> An alternative etymology links the word to Latin ''pinguis'', which means "fat". In Dutch, the alternative word for penguin is "fat-goose" (vetgans see: Dutch wiki or dictionaries under Pinguïn), and would indicate this bird received its name from its appearance.
+
+;'''[[Tor (rock formation)|Tor]]''': meaning hill or mountain, possibly via Latin ''turris'' (tower) such as [[Glastonbury Tor]], is particularly prevalent in [[Devon]].<ref>{{Citation | title = Etymology online | url = http://www.etymonline.com/index.php?allowed_in_frame=0&search=Tor&searchmode=none | contribution = Tor}}.</ref>
+
+==Welsh words used in English==
+[[Image:National Eisteddfod Maes 2007.jpg|thumb|right|200px|Eisteddfod]]
+
+English words lifted directly from Welsh, and used with original spelling (largely used either in Wales or with reference to Wales):
+*[[awdl]]
+*bach (literally "small", a term of affection)
+*[[cromlech]]
+*[[cirque|cwm]] (a valley)
+*[[crwth]] (originally meaning "swelling" or "pregnant")
+*cwrw - Welsh ale or beer
+*cwtch (hug, cuddle) (also small cupboard or dog's kennel/bed)
+*[[cynghanedd]]
+*[[Eisteddfod]]
+*[[englyn]]
+*[[gorsedd]]
+*[[hiraeth]] (distant longing, homesickness)
+*hwyl
+*iechyd da (cheers, or literally "good health")
+*mochyn - pig
+*sglod, sglods (Welsh plural = sglodion) - chips or "French fries", in fish-and-chip takeaways (Flintshire)
+*twp/dwp - idiotic, daft
+*Urdd Eisteddfod (in Welsh "Eisteddfod Yr Urdd"), the youth Eisteddfod
+*ych a fi - an expression of distaste
+
+== See also ==
+{{Wiktionary|Appendix:Glossary of Welsh Words of English Origin}}
+* [[List of English words of Celtic origin]]
+* [[Brittonicisms in English]]
+
+==References==
+{{Reflist}}
+* General: [[Oxford English Dictionary]]
+
+{{DEFAULTSORT:List Of English Words Of Welsh Origin}}
+[[Category:Welsh language]]
+[[Category:Lists of English words of Celtic origin|Welsh]]
+[[Category:Wales-related lists|Words]]
+[[Category:Welsh English]]
+
+
+
+{{Refimprove section|date=March 2012}}
+A list of [[English Language]] words derived from the Celtic '''[[Gaulish language]]''', entering English via [[Old Frankish]] or [[Vulgar Latin]] and [[Old French]]
+
+; [[ambassador]] : from Old French ''embassadeur'', from Latin ''ambactus'', from Gaulish ''*ambactos'', "servant", "henchman", "one who goes about".
+; [[beak]] : from Old French ''bec'', from Latin ''beccus'', from Gaulish ''beccos''.
+; [[bilge]] : from Old French ''boulge'', from Latin ''bulga'', from Gaulish ''bulgā'', "sack".
+; [[bran]] : from Gaulish ''brennos'', through the French ''bren'', "the husk of wheat", "barley...".
+; [[:wikt:brave|brave]] : from Prov/Cat ''brau'', from Gaulish ''bragos''.
+; budge (lambskin) : from Old French ''bulge'', from Latin ''bulga'', from Gaulish ''bulgā'', "sack".
+; [[budget]] : from Old French ''bougette'', from ''bouge'', from Latin ''bulga'', from Gaulish ''bulgā''.<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=budget&searchmode=none 'Budget']</ref> 
+; bulge : from Old French ''boulge'', from Latin ''bulga'', from Gaulish ''bulgā'', "sack".
+; [[car]] : from Norman French ''carre'', from L. ''carrum'', ''carrus'' (pl. ''carra''), orig. "two-wheeled Celtic war chariot," from Gaulish ''karros''.<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=car&searchmode=none 'car']</ref>
+; [[cream]] : from Old French ''cresme'', from the Latin word of Gaulish origin ''crāmum''.<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=cream&searchmode=none 'cream']</ref>
+; [[:wikt:change|change]] : of Gaulish origin, from PIE base *kamb- "to bend, crook". Borrowed into Latin as ''cambire''-> Late Latin ''cambiare'' "to barter, exchange", from there to Old French ''changier'' "to change, alter", onwards to Middle English.
+; [[embassy]] : from Middle French ''embassee'', from Italian ''ambasciata'', from Old Provençal ''ambaisada'', from Latin Ambactus, from Gaulish ''*ambactos'', "servant", "henchman", "one who goes about".<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=ambassador&searchmode=none]</ref>
+; glean : from Old French ''glener'', from [[Late Latin]] ''glennare'', from Gaulish ''glanos'', "clean".
+; gob : from Old French ''gobe'', likely from Gaulish ''*gobbo-''.<ref>[http://www.etymonline.com/index.php?allowed_in_frame=0&search=gob&searchmode=none 'gob']</ref>
+; [[palfrey]] : from Old French ''palefrei'', from Latin ''paraverēdus'' from Greek ''para'' + Latin ''verēdus'', from Gaulish *''vorēdos''.
+; [[:wikt:piece|piece]] : from Old French, from Vulgar Latin ''*pettia'', likely from Gaulish.
+; [[:wikt:quay|quay]] : from Old French ''chai'', from Gaulish ''caium''.<ref>[http://www.etymonline.com/index.php?term=quay "quay"] – Online Etymology Dictionary. Retrieved 31 March 2016.</ref>
+; [[Truancy|truant]] : from Old French, from Gaulish ''*trougo-'', "miser".
+; [[valet]] : from French, from Gallo-Romance ''*vassallittus'', from Middle Latin ''vassallus'', from ''vassus'', from Old Celtic ''*wasso-'', "young man", "squire".
+; varlet : from Middle French, from Gallo-Romance ''*vassallittus'', from Middle Latin ''vassallus'', from ''vassus'', from Old Celtic ''*wasso-'', "young man", "squire".
+; [[vassal]] : from Old French, from Middle Latin ''vassallus'', from ''vassus'', from Old Celtic ''*wasso-'', "young man", "squire".
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Wiktionary category|type=with [[Gaulish]] origins|category=English terms derived from Gaulish}}
+{{Wiktionary category|type=with [[Celtic languages|Celtic]] origins|category=Celtic derivations}}
+* [http://www.etymonline.com/ Online Etymology Dictionary]
+
+{{DEFAULTSORT:List Of English Words Of Gaulish Origin}}
+[[Category:Gaulish language|English]]
+[[Category:Lists of English words of Celtic origin|Gaulish]]
