@@ -117,7 +117,8 @@ languages = {'Anglo':    {'colour': '8BC34A', 'word count': 0, 'colour name': 'G
              'Latin':    {'colour': 'F44336', 'word count': 0, 'colour name': 'Red',        'long name': 'Latin'},
              'Arabic':   {'colour': 'AF7AC5', 'word count': 0, 'colour name': 'Purple',     'long name': 'Arabic'},
              'Greek':    {'colour': '26C6DA', 'word count': 0, 'colour name': 'Blue',       'long name': 'Greek'},
-             'Spanish':  {'colour': 'FA7921', 'word count': 0, 'colour name': 'Orange',     'long name': 'Spanish'}
+             'Spanish':  {'colour': 'FA7921', 'word count': 0, 'colour name': 'Orange',     'long name': 'Spanish'},
+             'Celtic':   {'colour': '1976D2', 'word count': 0, 'colour name': 'Indigo', 'long name': 'other Celtic (Common Brittonic, Gaulish, Irish, Scottish Gaelic, Welsh)'}
             }
 languages = collections.OrderedDict(sorted(languages.items()))
 
