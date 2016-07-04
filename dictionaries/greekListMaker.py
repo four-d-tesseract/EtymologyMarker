@@ -679,7 +679,6 @@ data = [
 'traum',
 'treiskaidek',
 'trema',
-'tri',
 'troch',
 'trop',
 'tryp',
