@@ -53,19 +53,20 @@ def removeAffixes(formattedList, allWords):
     """ If the program can't find a word in the dictionary, 
     this function tries removing prefixes and suffixes.
     """
-    for x in xrange(len(formattedList)):
-        suffix_list = ['es$', 's$',   'est$', 'er$',  'ed$',  'ial$', 
-                       'al$', 'ing$', 'ful$', 'age$', 'ist$', 'ism$', 'less$']
+    for x in range(len(formattedList)):
+        if getOrigin(formattedList[x], allWords) == None:           
+            formattedList[x] = re.sub('es$', '', formattedList[x])      # Handled separately to prevent words like 'flosses' from getting stripped to 'flos'.
+            formattedList[x] = re.sub('bly$', 'ble', formattedList[x])
+            
+        suffix_list = ['ly$', 'ness$', 'less$', 's$', 'est$', 'ship$', 'er$',  'or$',  'ed$',  'ial$', 'able$', 'ability$',
+                      'ible$', 'ibility$', 'al$', 'ful$', 'ing$', 'age$', 'ist$', 'ism$', 'en$', 'ment$', 'y$']
         for suffix in suffix_list:
             if getOrigin(formattedList[x], allWords) == None:
                 formattedList[x] = re.sub(suffix, '', formattedList[x])
 
-        if getOrigin(re.sub('ly$', "le", formattedList[x]), allWords) != None:  # Replaces -ly with -le if that produces a word.
-            formattedList[x] = re.sub('ly$', 'le', formattedList[x])    
-        else:
-            formattedList[x] = re.sub('ly$', '',   formattedList[x])
-
-        if getOrigin(re.sub('$', 'e', formattedList[x]), allWords) != None:     # Adds -e back onto words that had -e removed.
+        if getOrigin(re.sub('$', 'se', formattedList[x]), allWords) != None: # Handles special cases like 'houses' that get stripped down to 'hou'.
+            formattedList[x] = re.sub('$', 'se', formattedList[x])
+        elif getOrigin(re.sub('$', 'e', formattedList[x]), allWords) != None:     # Adds -e back onto words that had -e removed.
             formattedList[x] = re.sub('$',  'e', formattedList[x])
         elif getOrigin(formattedList[x], allWords) == None:                     # Handles words that end in -y, which gets changed to -ie when a suffix is added.
             formattedList[x] = re.sub('i$', 'y', formattedList[x])
@@ -73,9 +74,10 @@ def removeAffixes(formattedList, allWords):
         if getOrigin(formattedList[x], allWords) == None:
             formattedList[x] = re.sub('^re', '', formattedList[x])
             formattedList[x] = re.sub('^un', '', formattedList[x])
+            formattedList[x] = re.sub('^sub', '', formattedList[x])
 
-        if getOrigin(formattedList[x], allWords) == None:                       # Handles consonants that are doubled before -ed.
-            for consonant in ['b', 'p', 'r', 'n', 't', 'd', 'g']:
+        if getOrigin(formattedList[x], allWords) == None:                       # Handles consonants that are doubled before a suffix.
+            for consonant in ['b', 'd', 'g', 'l', 'm', 'n', 'p', 'r', 't', 'z']:
                 suffix = consonant*2 + '$'
                 formattedList[x] = re.sub(suffix, consonant, formattedList[x])
 
