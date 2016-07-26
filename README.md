@@ -10,9 +10,7 @@ If it doesn't find an etymology, then it looks for Greek roots from GreekRootsLi
 
 Etymology Marker outputs the HTML file "markedUp.html".
 
-CB_etymologyMarker.py is an identical script to etymologyMarker.py but colorblind-friendly. It adds extra bold, underline, and italic HTML tags to differentiate the text.
-
-DictionaryMaker.py and GreekListMaker.py contain the dict and the list that make up etymologyDictionary.json and GreekRootsList.json respectively, plus a few lines of code to dump their contents to the JSON file. I found these were a convenient way to view and edit the JSON files.
+DictionaryMaker.py and GreekListMaker.py contain the data inside their respective JSON files plus code to dump to the JSON files. I found these were a convenient way to view and edit the JSON files.
 
 I used the following resources to write this code:
 
@@ -21,15 +19,14 @@ https://en.wikipedia.org/wiki/Lists_of_English_words_by_country_or_language_of_o
 https://en.wikipedia.org/wiki/List_of_Greek_and_Latin_roots_in_English
 http://etymonline.com/
 
+Code
+
+
 Lists of common English words to check Etymology Marker's performance
 http://splasho.com/upgoer5/
 https://github.com/first20hours/google-10000-english
 
 *What needs to be done*
 
-Etymology Marker badly needs a bigger vocabulary. I'd appreciate any help in expanding it.
-
-I plan to make Etymology Marker into a Web app. If you want to take a crack at this yourself, that's cool. Go for it!
-
-If you have any other improvements or suggestions, that is also cool. Also go for it!
+I plan to make Etymology Marker into a Web app. If you want to take a crack at this yourself, that's cool. Go for it! If you have any other improvements or suggestions, that is also cool.
 
